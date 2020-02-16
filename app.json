@@ -25,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "extra": {
+      "newsApiKey": "649caef10367497da6a59d88ef149b76"
     }
   }
 }
