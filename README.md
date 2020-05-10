@@ -21,3 +21,8 @@ yarn ios
 # or
 yarn android
 ```
+
+## 動作イメージ
+
+https://github.com/Tanakan7/news-app/blob/master/docs/gamen_test1.gif
+
